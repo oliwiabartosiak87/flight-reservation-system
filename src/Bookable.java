@@ -1,0 +1,3 @@
+//interfejs
+public class Bookable {
+}
